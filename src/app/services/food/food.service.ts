@@ -15,7 +15,7 @@ export class FoodService {
     {
       id: 1,
       price: 10,
-      name: 'Pizza1',
+      name: 'Pizza',
       favorite:false,
       star: 2.5,
       tags: ['FastFood','Pizza','Lunch'],
