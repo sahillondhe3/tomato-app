@@ -33,7 +33,7 @@ export class FoodService {
     {
       id: 3,
       price: 30,
-      name: 'Pizza3',
+      name: 'Burger',
       favorite:false,
       star: 3.5,
       tags: ['FastFood','Pizza','Lunch'],
@@ -42,7 +42,7 @@ export class FoodService {
     {
       id: 4,
       price: 40,
-      name: 'Pizza4',
+      name: 'French Fries',
       favorite:false,
       star: 4.5,
       tags: ['FastFood','Pizza','Lunch'],
@@ -51,7 +51,7 @@ export class FoodService {
     {
       id: 5,
       price: 50,
-      name: 'Pizza5',
+      name: 'White Pasta',
       favorite:false,
       star: 3.5,
       tags: ['FastFood','Pizza','Lunch'],
@@ -60,7 +60,7 @@ export class FoodService {
     {
       id: 6,
       price: 60,
-      name: 'Pizza6',
+      name: 'soup',
       favorite:false,
       star: 3.5,
       tags: ['FastFood','Pizza','Lunch'],
@@ -69,7 +69,7 @@ export class FoodService {
     {
       id: 7,
       price: 70,
-      name: 'Pizza7',
+      name: 'Ice Cream',
       favorite:false,
       star: 3.5,
       tags: ['FastFood','Pizza','Lunch'],
@@ -78,7 +78,7 @@ export class FoodService {
     {
       id: 8,
       price: 80,
-      name: 'Pizza8',
+      name: 'Chicken rice',
       favorite:false,
       star: 4.5,
       tags: ['FastFood','Pizza','Lunch'],
