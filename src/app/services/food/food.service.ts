@@ -24,7 +24,7 @@ export class FoodService {
     {
       id: 2,
       price: 20,
-      name: 'Burger',
+      name: 'Manchurian',
       favorite:false,
       star: 3.5,
       tags: ['FastFood','Pizza','Lunch'],
